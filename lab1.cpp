@@ -1,4 +1,4 @@
-// Example program
+// Primer ejercicio
 #include <iostream>
 
 using namespace std;
